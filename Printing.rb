@@ -1,0 +1,7 @@
+puts "There are 2 ways to print in ruby"
+puts "The first way to print is using the puts function"
+puts "The puts function "
+print "and the print function."
+puts "The puts function makes a new line for every time you use the function,"
+print " whilst the print function concatenates this line of code with the previous one!"
+puts "Next time I'll go over variables!"
